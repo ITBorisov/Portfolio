@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Georgi Borisov Portfolio",
   "main": "index.js",
+  "homepage": "https://itborisov.github.io/Portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
